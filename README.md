@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#dart-description">Description</a> &#xa0; | &#xa0; 
-  <a href="#dart-demo">Demo</a> &#xa0; | &#xa0;
+  <a href="#camera_flash-demo">Demo</a> &#xa0; | &#xa0;
   <a href="#memo-improvements">Improvements</a> &#xa0; | &#xa0;
   <a href="#art-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
@@ -23,6 +23,12 @@
 
 Interactive whiteboard made with NodeJS, Express and Socket.io
 
+## :camera_flash:	 Demo ##
+
+Unfortunately it only works on computers not on phones
+If you want view a demo please click [Here.](http://ec2-3-84-79-180.compute-1.amazonaws.com/)
+
+
 ## :memo: Improvements ##
 
 These are the list of currect improvements:
@@ -30,6 +36,7 @@ These are the list of currect improvements:
 - :diamonds: Improve the UI.	
 - :diamonds: Add more colors.	
 - :diamonds: Add option for change the background color.	
+- :diamonds: Make it work on smartphones.	
 
 
 ## :art: Technologies ##
